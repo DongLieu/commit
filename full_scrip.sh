@@ -1,7 +1,7 @@
 #!/bin/bash
 for i in {1..3}
 do
-    for i in {1..1000}
+    for i in {1..10011}
     do
         echo "o" >> filechange.txt
     done
